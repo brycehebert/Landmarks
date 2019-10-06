@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../Landmarks2/Supporting Views"
+      name = "Supporting Views">
+      <FileRef
+         location = "group:MapView.swift">
+      </FileRef>
+      <FileRef
+         location = "group:CircleImage.swift">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:../../BuildingListsAndNavigation">
+   </FileRef>
+   <FileRef
+      location = "self:Landmarks2.xcodeproj">
+   </FileRef>
+</Workspace>
